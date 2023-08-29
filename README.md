@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Keylogger](https://github.com/rvsabhinav/Keylogger)
-- 🌱 I’m currently learning WebDev
+- 🔭 I’m currently working on [Keylogger](https://github.com/rvsabhinav/Keylogger) and a couple of other things
+- 🌱 I’m currently learning WebDev, ML and AI
 - 💬 Ask me about anything
 - 📫 How to reach me: rvsabhinav@gmail.com
-- 😄 Pronouns: HE/HIS
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I play violin.
